@@ -1,0 +1,12 @@
+minUtil: 30
+1. Pattern: ('d',), ExpSup: 3.3, Utility: 30
+2. Pattern: ('c', 'd'), ExpSup: 1.95, Utility: 38
+3. Pattern: ('a', 'd'), ExpSup: 1.2, Utility: 35
+4. Pattern: ('a', 'c', 'd'), ExpSup: 0.98, Utility: 42
+5. Pattern: ('b', 'c', 'd'), ExpSup: 0.88, Utility: 40
+6. Pattern: ('a', 'b', 'd'), ExpSup: 0.55, Utility: 33
+=============  TOP-K UFPs v1.20 - STATS =============
+ Transactions count from database : 7
+ Candidates count : 0
+ Algorithm run time : 0 seconds
+ Peak memory usage : 121.49 MB

@@ -1,0 +1,100 @@
+minUtil: 4804
+1. Pattern: ('304',), ExpSup: 14.23, Utility: 13607
+2. Pattern: ('1373',), ExpSup: 13.55, Utility: 25560
+3. Pattern: ('272',), ExpSup: 13.54, Utility: 22678
+4. Pattern: ('1293',), ExpSup: 12.66, Utility: 8352
+5. Pattern: ('1292',), ExpSup: 12.6, Utility: 24642
+6. Pattern: ('545',), ExpSup: 12.1, Utility: 9419
+7. Pattern: ('357',), ExpSup: 11.97, Utility: 11520
+8. Pattern: ('634',), ExpSup: 11.88, Utility: 11881
+9. Pattern: ('1423',), ExpSup: 11.75, Utility: 16116
+10. Pattern: ('617',), ExpSup: 11.75, Utility: 7527
+11. Pattern: ('916',), ExpSup: 11.68, Utility: 15163
+12. Pattern: ('1012',), ExpSup: 11.65, Utility: 19861
+13. Pattern: ('903',), ExpSup: 11.62, Utility: 14616
+14. Pattern: ('831',), ExpSup: 11.39, Utility: 8848
+15. Pattern: ('918',), ExpSup: 11.38, Utility: 18414
+16. Pattern: ('888',), ExpSup: 11.38, Utility: 5280
+17. Pattern: ('1390',), ExpSup: 11.26, Utility: 12415
+18. Pattern: ('404',), ExpSup: 11.02, Utility: 7000
+19. Pattern: ('308',), ExpSup: 10.94, Utility: 11554
+20. Pattern: ('1351',), ExpSup: 10.9, Utility: 9352
+21. Pattern: ('1451',), ExpSup: 10.9, Utility: 7614
+22. Pattern: ('1315',), ExpSup: 10.88, Utility: 9612
+23. Pattern: ('599',), ExpSup: 10.79, Utility: 12519
+24. Pattern: ('932',), ExpSup: 10.78, Utility: 8262
+25. Pattern: ('1161',), ExpSup: 10.54, Utility: 21540
+26. Pattern: ('276',), ExpSup: 10.37, Utility: 18528
+27. Pattern: ('520',), ExpSup: 10.36, Utility: 14840
+28. Pattern: ('718',), ExpSup: 10.36, Utility: 9741
+29. Pattern: ('386',), ExpSup: 10.29, Utility: 10927
+30. Pattern: ('1362',), ExpSup: 10.29, Utility: 8046
+31. Pattern: ('1439',), ExpSup: 10.25, Utility: 8400
+32. Pattern: ('447',), ExpSup: 10.23, Utility: 17856
+33. Pattern: ('1220',), ExpSup: 10.18, Utility: 11700
+34. Pattern: ('1508',), ExpSup: 10.16, Utility: 19116
+35. Pattern: ('1399',), ExpSup: 10.11, Utility: 10324
+36. Pattern: ('1110',), ExpSup: 10.1, Utility: 17920
+37. Pattern: ('378',), ExpSup: 10.08, Utility: 5994
+38. Pattern: ('69',), ExpSup: 10.07, Utility: 16430
+39. Pattern: ('1282',), ExpSup: 10.05, Utility: 18232
+40. Pattern: ('749',), ExpSup: 10.03, Utility: 11748
+41. Pattern: ('602',), ExpSup: 10.0, Utility: 13696
+42. Pattern: ('1442',), ExpSup: 9.99, Utility: 10332
+43. Pattern: ('1426',), ExpSup: 9.96, Utility: 21692
+44. Pattern: ('391',), ExpSup: 9.95, Utility: 8777
+45. Pattern: ('501',), ExpSup: 9.87, Utility: 6227
+46. Pattern: ('307',), ExpSup: 9.83, Utility: 7400
+47. Pattern: ('1456',), ExpSup: 9.82, Utility: 8784
+48. Pattern: ('200',), ExpSup: 9.8, Utility: 12190
+49. Pattern: ('326',), ExpSup: 9.77, Utility: 13091
+50. Pattern: ('1347',), ExpSup: 9.71, Utility: 9912
+51. Pattern: ('1224',), ExpSup: 9.67, Utility: 6944
+52. Pattern: ('1291',), ExpSup: 9.65, Utility: 12642
+53. Pattern: ('73',), ExpSup: 9.65, Utility: 11184
+54. Pattern: ('1487',), ExpSup: 9.64, Utility: 5320
+55. Pattern: ('246',), ExpSup: 9.63, Utility: 17655
+56. Pattern: ('1257',), ExpSup: 9.62, Utility: 9505
+57. Pattern: ('311',), ExpSup: 9.57, Utility: 8600
+58. Pattern: ('247',), ExpSup: 9.52, Utility: 9256
+59. Pattern: ('54',), ExpSup: 9.51, Utility: 12889
+60. Pattern: ('1118',), ExpSup: 9.5, Utility: 13178
+61. Pattern: ('1045',), ExpSup: 9.48, Utility: 21090
+62. Pattern: ('27',), ExpSup: 9.44, Utility: 16165
+63. Pattern: ('1464',), ExpSup: 9.44, Utility: 14800
+64. Pattern: ('1048',), ExpSup: 9.43, Utility: 11713
+65. Pattern: ('812',), ExpSup: 9.41, Utility: 14696
+66. Pattern: ('1473',), ExpSup: 9.4, Utility: 13452
+67. Pattern: ('640',), ExpSup: 9.36, Utility: 13209
+68. Pattern: ('1264',), ExpSup: 9.35, Utility: 11985
+69. Pattern: ('222',), ExpSup: 9.33, Utility: 22910
+70. Pattern: ('278',), ExpSup: 9.33, Utility: 18480
+71. Pattern: ('969',), ExpSup: 9.33, Utility: 7920
+72. Pattern: ('434',), ExpSup: 9.33, Utility: 7384
+73. Pattern: ('988',), ExpSup: 9.3, Utility: 24187
+74. Pattern: ('419',), ExpSup: 9.29, Utility: 14994
+75. Pattern: ('266',), ExpSup: 9.29, Utility: 10692
+76. Pattern: ('219',), ExpSup: 9.27, Utility: 11844
+77. Pattern: ('382',), ExpSup: 9.27, Utility: 9072
+78. Pattern: ('435',), ExpSup: 9.24, Utility: 14433
+79. Pattern: ('1516',), ExpSup: 9.22, Utility: 15792
+80. Pattern: ('1217',), ExpSup: 9.21, Utility: 7239
+81. Pattern: ('890',), ExpSup: 9.18, Utility: 12789
+82. Pattern: ('1308',), ExpSup: 9.18, Utility: 12642
+83. Pattern: ('728',), ExpSup: 9.17, Utility: 11528
+84. Pattern: ('175',), ExpSup: 9.14, Utility: 19635
+85. Pattern: ('449',), ExpSup: 9.12, Utility: 15867
+86. Pattern: ('1357',), ExpSup: 9.1, Utility: 11653
+87. Pattern: ('191', '890'), ExpSup: 1.37, Utility: 5715
+88. Pattern: ('1511', '419'), ExpSup: 1.18, Utility: 5127
+89. Pattern: ('1493', '191', '890'), ExpSup: 0.88, Utility: 5681
+90. Pattern: ('1399', '1426'), ExpSup: 0.86, Utility: 5680
+91. Pattern: ('170', '283', '387', '449', '932'), ExpSup: 0.09, Utility: 5046
+92. Pattern: ('1540', '408', '419', '464', '575'), ExpSup: 0.08, Utility: 4834
+93. Pattern: ('1531', '17', '300', '439', '445', '888'), ExpSup: 0.03, Utility: 5366
+94. Pattern: ('1531', '17', '300', '439', '445'), ExpSup: 0.03, Utility: 5014
+=============  TOP-K UFPs v1.20 - STATS =============
+ Transactions count from database : 4141
+ Candidates count : 0
+ Algorithm run time : 3 seconds
+ Peak memory usage : 0.22 MB
